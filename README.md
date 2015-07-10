@@ -2,6 +2,7 @@
 test
 T>T
 :)
+T.T
 :(
-:D
+T.T
 D:
